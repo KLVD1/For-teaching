@@ -1,11 +1,11 @@
 public class Main {
     static void main() {
-        System.out.println ("Задание2");
+        System.out.println ("Задание3");
 
-        var dog2 = 8.0 + 4;
-        var cat2 = 3.6 + 4;
-        var paper2 = 763789 + 4;
-        System.out.println("значение#2 "+dog2);
-        System.out.println("значение#2 "+cat2);
-        System.out.println("значение#2 "+paper2);}
+        var dog3 = 8.0 - 3.5;
+        var cat3 = 3.6 - 1.6;
+        var paper3 = 763789 - 7639;
+        System.out.println("значение#3 "+dog3);
+        System.out.println("значение#3 "+cat3);
+        System.out.println("значение#3 "+paper3);}
 }
