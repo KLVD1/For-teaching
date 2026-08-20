@@ -1,9 +1,9 @@
 public class Main {
     static void main() {
-        var dog = 8.0;
-        var cat = 3.6;
-        var paper = 763789;
-        System.out.println("значение#1 "+dog);
-        System.out.println("значение#1 "+cat);
-        System.out.println("значение#1 "+paper);}
+        System.out.println ("Задание7");
+
+        var box1=78.2;
+        var box2=82.7;
+        var massDifference = box2 % box1;
+        System.out.println ("остаток от деления = " + massDifference );}
 }
