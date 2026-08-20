@@ -1,9 +1,11 @@
 public class Main {
     static void main() {
-        var dog = 8.0;
-        var cat = 3.6;
-        var paper = 763789;
-        System.out.println("значение#1 "+dog);
-        System.out.println("значение#1 "+cat);
-        System.out.println("значение#1 "+paper);}
+        System.out.println ("Задание6");
+
+        var box1=78.2;
+        var box2=82.7;
+        var result1 = box1 + box2;
+        var result2 = box2 - box1;
+        System.out.println ("масса  боксеров = " + result1 );
+        System.out.println ("разница масс боксеров = " + result2 );}
 }
