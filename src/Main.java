@@ -1,13 +1,11 @@
 public class Main {
     static void main() {
-        System.out.println ("Задание5");
+        System.out.println ("Задание6");
 
-        var frog=3.5;
-        var frogby10=frog*10;
-        var frogby35=frogby10/3.5;
-        var frogby4=frogby35+4;
-        System.out.println("значение#5 "+frog);
-        System.out.println("значение#5 "+frogby10);
-        System.out.println("значение#5 "+frogby35);
-        System.out.println("значение#5 "+frogby4);}
+        var box1=78.2;
+        var box2=82.7;
+        var result1 = box1 + box2;
+        var result2 = box2 - box1;
+        System.out.println ("масса  боксеров = " + result1 );
+        System.out.println ("разница масс боксеров = " + result2 );}
 }
